@@ -30,7 +30,7 @@ The following Table shows the results for numerical patterns. For *punctuation*,
 
 ## Reproduce the Result
 
-We have provide `pattern_identification.ipynb`, which includes step-to-step instructions to reproduce the bias pattern verification process and findings.
+We have provide `pattern_identification.ipynb`, which includes step-by-step instructions to reproduce the bias pattern verification process and findings.
 
 ## Dataset Reference
 
