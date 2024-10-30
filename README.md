@@ -30,7 +30,7 @@ The following Table shows the results for numerical patterns. For *punctuation*,
 
 ## Reproduce the Result
 
-We have provide the Jupyter Notebook `pattern_identification.ipynb` to reproduce the bias pattern verification process.
+We have provide `pattern_identification.ipynb`, which includes step-to-step instructions to reproduce the bias pattern verification process.
 
 ## Dataset Reference
 
