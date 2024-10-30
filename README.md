@@ -1,5 +1,5 @@
-# CS-598-DK
-This is the reproduction reproduction of CS598 DK, Fall 24. Group member: Chuxuan Hu, Zihao Li, Wei Xiong, Qiusi Zhan.
+# Mitigating the Bias in Preference Model for Large Language Model Alignment
+This is the reproduction reproduction of CS598 DK, Fall 24. Group 9, Members: Chuxuan Hu, Zihao Li, Wei Xiong, Qiusi Zhan.
 
 The topic of our course project is Debiasing the Preference Model for Large Language Model Alignment. And this repository presents the script to reproduce our data in Project Update 2.
 
@@ -30,6 +30,7 @@ The following Table shows the results for numerical patterns. For *punctuation*,
 
 ## Reproduce the Result
 
+We have provide the Jupyter Notebook `pattern_identification.ipynb` to reproduce the bias pattern verification process.
 
 ## Dataset Reference
 
